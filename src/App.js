@@ -11,7 +11,7 @@ class App extends React.Component {
       names: null,
     };
 
-    this.ENDPOINT = "https://crudcrud.com/api/1288b3eaee094b84a0d90d170a27ba36";
+    this.ENDPOINT = "https://crudcrud.com/api/7d3f80d4512c44a0b08726b83eebf410";
   }
 
   componentDidMount = () => {
